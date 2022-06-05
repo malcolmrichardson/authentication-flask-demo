@@ -1,9 +1,9 @@
 # authentication-flask-demo
 Web application to practice/demonstrate Authentication and Authorization using Flask.
 ## Major Takeaways:
-Implemented user authentication, by creating a user model and storing the user information in a database.<br>
-Ensured user credentialing was correct by hashing (SHA-256) the user's password from the login form and copmparing it to the hashed password stored within the database.<br>
-Added authorization to the application by using the `@login_required` decorator on the profile page, so that only logged-in users could see the profile page.
+1. Implemented user authentication, by creating a user model and storing the user information in a database.
+2. Ensured user credentialing was correct by hashing (SHA-256) the user's password from the login form and copmparing it to the hashed password stored within the database.
+3. Added authorization to the application by using the `@login_required` decorator on the profile page, so that only logged-in users could see the profile page.
 ## Language(s):
 - Python
 - HTML
