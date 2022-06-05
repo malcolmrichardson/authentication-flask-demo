@@ -33,3 +33,9 @@ flask run
 ```
 Application runs on http://127.0.0.1:5000 by default. Enjoy and thank you!
 ## Screenshots/Images:
+
+<img width="1552" alt="Screen Shot 2022-06-04 at 10 53 32 PM" src="https://user-images.githubusercontent.com/70815205/172033125-f3c0f041-52cb-4490-b833-6e4e38a8c3d8.png">
+<img width="1552" alt="Screen Shot 2022-06-04 at 10 53 45 PM" src="https://user-images.githubusercontent.com/70815205/172033129-df2ba51b-f8be-4915-b157-02d665dbd24a.png">
+<img width="1552" alt="Screen Shot 2022-06-04 at 10 53 56 PM" src="https://user-images.githubusercontent.com/70815205/172033132-6576ac9e-c8d8-4671-8dde-4bfd30d78209.png">
+<img width="1552" alt="Screen Shot 2022-06-04 at 10 54 24 PM" src="https://user-images.githubusercontent.com/70815205/172033140-52d83482-81ef-4838-ba38-6405bd469861.png">
+<img width="1552" alt="Screen Shot 2022-06-04 at 10 54 33 PM" src="https://user-images.githubusercontent.com/70815205/172033144-c45da707-f525-4819-a69f-2b62d3b4d95f.png">
